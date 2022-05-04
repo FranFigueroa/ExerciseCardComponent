@@ -1,2 +1,2 @@
 # ExerciseCardComponent
-Exercise frontEnd1
+Exercise frontend1
